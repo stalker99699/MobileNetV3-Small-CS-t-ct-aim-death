@@ -1,6 +1,6 @@
 # MobileNetV3-Small-CS-t-ct-aim-death
 веса кастомной MobileNetV3-Small для CS2 
-- [!КРОП](crop/Dast2-16:9_01359_CT_2.png)
+- ![КРОП](crop/Dast2-16:9_01359_CT_2.png)
 
 моделе подаётся кроп(вырезка из кадра в КС с обьектом
 3 функции
